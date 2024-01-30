@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharaf Al Hamza</h1>
 <h3 align="center">A passionate Front-end & WordPress developer from Bangladesh</h3>
 
-<img scr="https://pbs.twimg.com/profile_banners/1641575614451945472/1696491615/">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharafhamza&label=Profile%20views&color=0e75b6&style=flat" alt="sharafhamza" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharafhamza" alt="sharafhamza" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sharafalha" target="blank"><img src="https://img.shields.io/twitter/follow/sharafalha?logo=twitter&style=for-the-badge" alt="sharafalha" /></a> </p>
 
