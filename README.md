@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
+  <img height="400" style="margin-bottom:-10px" src="https://pbs.twimg.com/profile_banners/1641575614451945472/1696491615/1500x500"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Front-end developer | Programmer | WordPress developer</p>
 
 ###
 
@@ -85,6 +85,14 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://media.licdn.com/dms/image/D4E22AQEQXNZVygy5kQ/feedshare-shrink_2048_1536/0/1695288216586?e=2147483647&v=beta&t=C9i5rgWYGAo-FU-uSJpXtiQxWbd97D3i4y51DSrNR04"  />
+
+###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharafhamza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
