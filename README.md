@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" style="margin-bottom:-10px border-radius:10px" src="https://pbs.twimg.com/profile_banners/1641575614451945472/1696491615/1500x500"  />
+  <img height="400" src="https://pbs.twimg.com/profile_banners/1641575614451945472/1696491615/1500x500"  />
 </div>
 
 ###
@@ -72,30 +72,18 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharafhamza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media.licdn.com/dms/image/D4E22AQEQXNZVygy5kQ/feedshare-shrink_2048_1536/0/1695288216586?e=2147483647&v=beta&t=C9i5rgWYGAo-FU-uSJpXtiQxWbd97D3i4y51DSrNR04"  />
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharafhamza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/D4E22AQEQXNZVygy5kQ/feedshare-shrink_2048_1536/0/1695288216586?e=2147483647&v=beta&t=C9i5rgWYGAo-FU-uSJpXtiQxWbd97D3i4y51DSrNR04"  />
 </div>
 
 ###
